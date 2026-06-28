@@ -1,3 +1,20 @@
-Python-Calculator
+PYTHON-CALCULATOR
 
-This project has basic operations like addition, subtraction, multiplication and division. I am planning to improvise this simple calculator in the future by adding a history of calculations, by adding multiple operations and incorporating it in a GUI.
+1) Features included-
+   Addition
+   Subtraction
+   Multiplication
+   Divsion
+
+2) Coding concepts used-
+   if-else conditionals
+   try-except blocks to handle errors
+   loop
+   functions
+
+3) Future improvements-
+   Adding a list to show history of calculations.
+   Adding extra operations like square root, exponents, floor divsion, trigonometric operations, etc.
+   Incorporating it with GUI.
+
+THANK YOU!!!
