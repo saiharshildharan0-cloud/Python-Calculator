@@ -1,16 +1,16 @@
 PYTHON-CALCULATOR
 
 1) Features included-
-   Addition
-   Subtraction
-   Multiplication
-   Divsion
+   Addition,
+   Subtraction,
+   Multiplication,
+   Divsion.
 
 2) Coding concepts used-
-   if-else conditionals
-   try-except blocks to handle errors
-   loop
-   functions
+   if-else conditionals,
+   try-except blocks to handle errors,
+   loop,
+   functions.
 
 3) Future improvements-
    Adding a list to show history of calculations.
